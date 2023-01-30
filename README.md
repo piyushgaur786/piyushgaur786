@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyushgaur786
+- 👋 Hi, I’m @piyushgaur
 - 👀 I’m interested in learning codes
 - 🌱 I’m currently learning Linux 
 - 💞️ I’m looking to collaborate on Android,Linux,Windows OS
